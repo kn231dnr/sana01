@@ -1,0 +1,14 @@
+C:\Users\nazar\source\repos\sana01\sana01\obj\Debug\net7.0\sana01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazar\source\repos\sana01\sana01\obj\Debug\net7.0\sana01.AssemblyInfoInputs.cache
+C:\Users\nazar\source\repos\sana01\sana01\obj\Debug\net7.0\sana01.AssemblyInfo.cs
+C:\Users\nazar\source\repos\sana01\sana01\obj\Debug\net7.0\sana01.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\sana01\sana01\bin\Debug\net7.0\sana01.exe
+C:\Users\nazar\source\repos\sana01\sana01\bin\Debug\net7.0\sana01.deps.json
+C:\Users\nazar\source\repos\sana01\sana01\bin\Debug\net7.0\sana01.runtimeconfig.json
+C:\Users\nazar\source\repos\sana01\sana01\bin\Debug\net7.0\sana01.dll
+C:\Users\nazar\source\repos\sana01\sana01\bin\Debug\net7.0\sana01.pdb
+C:\Users\nazar\source\repos\sana01\sana01\obj\Debug\net7.0\sana01.dll
+C:\Users\nazar\source\repos\sana01\sana01\obj\Debug\net7.0\refint\sana01.dll
+C:\Users\nazar\source\repos\sana01\sana01\obj\Debug\net7.0\sana01.pdb
+C:\Users\nazar\source\repos\sana01\sana01\obj\Debug\net7.0\sana01.genruntimeconfig.cache
+C:\Users\nazar\source\repos\sana01\sana01\obj\Debug\net7.0\ref\sana01.dll
