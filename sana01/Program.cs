@@ -1,5 +1,6 @@
 ﻿using System.Text;
 
+
 namespace LinearExpressions
 {
     internal class Program
@@ -16,8 +17,8 @@ namespace LinearExpressions
             int c = int.Parse(Console.ReadLine());
             Console.WriteLine("Введіть значення d");
             int d = int.Parse(Console.ReadLine());
-
+            double x = ((a + 2 * d - c + d) / (double)(c * d)) + (a + b / (double)c - d) - (Math.Pow(a, 2) / Math.Pow(b, 2));
+            Console.WriteLine($"x = {x}");
         }
-
     }
 }
