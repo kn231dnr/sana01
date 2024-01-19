@@ -22,6 +22,8 @@ namespace LinearExpressions2
             double x = Double.Parse(Console.ReadLine());
             double z1 = ((m - 1) * Math.Sqrt(m) - (n - 1) * Math.Sqrt(n)) / (Math.Sqrt(Math.Pow(m, 3) * n) + n * m + Math.Pow(n, 2) - m);
             Console.WriteLine($"z1 = {z1}");
+            double z2 = Math.Sqrt(m) - Math.Sqrt(n) / m;
+            Console.WriteLine($"z2 = {z2}");
         }
     }
 }
