@@ -24,6 +24,8 @@ namespace LinearExpressions
             Console.WriteLine($"y = {y}");
             double z = ((Math.Pow((Math.Pow(x, 2) - 2 * x), 3) - 4 * (Math.Pow(x, 4) + 1)) * (1 - b)) / (5 * a + 3 * b);
             Console.WriteLine($"z = {z}");
+            double r = (((1.0 / 2.0) * a + (3.0 / 4.0) * b - 7.0 / 5.0) / 3 * c + 1) + 1 / (a - c);
+            Console.WriteLine($"r = {r}");
         }
     }
 }
