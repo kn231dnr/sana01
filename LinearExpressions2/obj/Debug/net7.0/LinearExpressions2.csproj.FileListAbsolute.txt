@@ -1,0 +1,14 @@
+C:\Users\nazar\source\repos\sana01\LinearExpressions2\bin\Debug\net7.0\LinearExpressions2.exe
+C:\Users\nazar\source\repos\sana01\LinearExpressions2\bin\Debug\net7.0\LinearExpressions2.deps.json
+C:\Users\nazar\source\repos\sana01\LinearExpressions2\bin\Debug\net7.0\LinearExpressions2.runtimeconfig.json
+C:\Users\nazar\source\repos\sana01\LinearExpressions2\bin\Debug\net7.0\LinearExpressions2.dll
+C:\Users\nazar\source\repos\sana01\LinearExpressions2\bin\Debug\net7.0\LinearExpressions2.pdb
+C:\Users\nazar\source\repos\sana01\LinearExpressions2\obj\Debug\net7.0\LinearExpressions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazar\source\repos\sana01\LinearExpressions2\obj\Debug\net7.0\LinearExpressions2.AssemblyInfoInputs.cache
+C:\Users\nazar\source\repos\sana01\LinearExpressions2\obj\Debug\net7.0\LinearExpressions2.AssemblyInfo.cs
+C:\Users\nazar\source\repos\sana01\LinearExpressions2\obj\Debug\net7.0\LinearExpressions2.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\sana01\LinearExpressions2\obj\Debug\net7.0\LinearExpressions2.dll
+C:\Users\nazar\source\repos\sana01\LinearExpressions2\obj\Debug\net7.0\refint\LinearExpressions2.dll
+C:\Users\nazar\source\repos\sana01\LinearExpressions2\obj\Debug\net7.0\LinearExpressions2.pdb
+C:\Users\nazar\source\repos\sana01\LinearExpressions2\obj\Debug\net7.0\LinearExpressions2.genruntimeconfig.cache
+C:\Users\nazar\source\repos\sana01\LinearExpressions2\obj\Debug\net7.0\ref\LinearExpressions2.dll
